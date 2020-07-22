@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-This will be edited later
+This will be done later.
 
-How to contact me: 
-Bitman@polyligix.tech
+Contact me at Ethan@PolyLogiX.Studuo
