@@ -21,7 +21,7 @@ I'm a part time open source developer!
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)
 
-[![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
 ## :earth_asia: My Community
 
 Wanna see some of my future projects? Join today!
