@@ -20,6 +20,11 @@ I'm a part time open source developer!
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
 [![Top Language](https://github-readme-stats-6bwx5vgdo.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)[![bombitmanbombs's wakatime stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
+
+## Headphones
+
+[![Spotify](https://novatorem-e87j7kcl5.vercel.app/api/spotify)](https://open.spotify.com/user/22352ieeerem5qsogyc5yotgq)
+
 ## :earth_asia: My Community
 
 Wanna see some of my future projects? Join today!
