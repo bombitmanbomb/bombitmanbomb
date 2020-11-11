@@ -11,7 +11,7 @@ I'm a part time open source developer!
 
 ## :computer: Popular Projects
 
-[![COVID-19 Tracker CLI](https://github-readme-stats.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=Neos.js)](https://github.com/PolyLogiX-Studio/Neos.js)<!-- 1st Line -->
+[![COVID-19 Tracker CLI](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=Neos.js)](https://github.com/PolyLogiX-Studio/Neos.js)<!-- 1st Line -->
 
 [More projects...](https://github.com/bombitmanbomb/?tab=repositories)
 
@@ -19,7 +19,7 @@ I'm a part time open source developer!
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)[![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
+[![Top Language](https://github-readme-stats-6bwx5vgdo.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)[![bombitmanbombs's wakatime stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
 ## :earth_asia: My Community
 
 Wanna see some of my future projects? Join today!
@@ -40,7 +40,7 @@ Wanna see some of my future projects? Join today!
 <details>
     <summary>&#9889 GitHub Stats</summary>
 
-[![Waren Gonzaga Github Stats](https://github-readme-stats.vercel.app/api?username=bombitmanbomb&show_icons=true&count_private=true)](https://github.com/bombitmanbomb)
+[![Github Stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api?username=bombitmanbomb&show_icons=true&count_private=true)](https://github.com/bombitmanbomb)
 
 </details>
 
