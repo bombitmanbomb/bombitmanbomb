@@ -11,7 +11,8 @@ I'm a part time open source developer!
 
 ## :computer: Popular Projects
 
-[![COVID-19 Tracker CLI](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=Neos.js)](https://github.com/PolyLogiX-Studio/Neos.js)<!-- 1st Line -->
+[![NeosJS](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=Neos.js)](https://github.com/PolyLogiX-Studio/Neos.js)<!-- 1st Line -->
+[![neosjs-commands](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=neosjs-commands)](https://github.com/PolyLogiX-Studio/neosjs-commands)<!-- 1st Line -->
 
 [More projects...](https://github.com/bombitmanbomb/?tab=repositories)
 
