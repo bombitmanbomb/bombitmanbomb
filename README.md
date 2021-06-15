@@ -23,7 +23,9 @@ I'm an open source software developer!
 
 *NOTE\* Top Languages do not represent skill, It is the percentage of code in the language on my public github.*
 
-[![Top Language](https://github-readme-stats-6bwx5vgdo.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)[![bombitmanbombs's wakatime stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
+[![Top Language](https://github-readme-stats-6bwx5vgdo.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)
+
+[![bombitmanbombs's wakatime stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
 
 ## Headphones
 
