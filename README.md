@@ -25,7 +25,7 @@ I'm an open source software developer!
 
 [![Top Language](https://github-readme-stats-6bwx5vgdo.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)
 
-[![bombitmanbombs's wakatime stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
+[![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
 
 ## Headphones
 
