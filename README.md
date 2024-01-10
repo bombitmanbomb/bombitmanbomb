@@ -42,7 +42,7 @@ I'm an open source software developer!
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
+[![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb&layout=compact)](https://wakatime.com/@bombitmanbomb)
 
 ## Headphones
 
@@ -58,19 +58,14 @@ Wanna see some of my future projects? Join today!
 
 <!-- markdownlint-disable MD033 -->
 
-<details>
-    <summary>&#127942 GitHub Awards</summary>
+GitHub Awards
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=bombitmanbomb)
 
-</details>
+GitHub Stats
 
-<details>
-    <summary>&#9889 GitHub Stats</summary>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bombitmanbomb&show_icons=true&count_private=true)](https://github.com/bombitmanbomb)
 
-[![Github Stats](https://github-readme-stats-6bwx5vgdo.vercel.app/api?username=bombitmanbomb&show_icons=true&count_private=true)](https://github.com/bombitmanbomb)
-
-</details>
 
 <!-- markdownlint-enable MD033 -->
 
