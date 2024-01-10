@@ -42,11 +42,6 @@ I'm an open source software developer!
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-*NOTE\* Top Languages do not represent skill, It is the percentage of code in the language on my public github.*
-
-[![Top Language](https://github-readme-stats-6bwx5vgdo.vercel.app/api/top-langs?username=bombitmanbomb&layout=compact)](https://github.com/bombitmanbomb/github-readme-stats)
-
 [![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb)](https://wakatime.com/@bombitmanbomb)
 
 ## Headphones
