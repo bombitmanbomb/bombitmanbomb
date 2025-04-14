@@ -44,6 +44,8 @@ I'm an open source software developer!
 
 Language Stats for the Current Year
 
+[![wakatime](https://wakatime.com/badge/user/d69c2ed7-e77d-4021-b08c-345bad0c756b.svg)](https://wakatime.com/@d69c2ed7-e77d-4021-b08c-345bad0c756b)
+
 [![bombitmanbombs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombitmanbomb&layout=compact)](https://wakatime.com/@bombitmanbomb)
 
 ## Headphones
