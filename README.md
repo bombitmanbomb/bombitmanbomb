@@ -52,12 +52,6 @@ Language Stats for the Current Year
 
 [![Spotify](https://novatorem-e87j7kcl5.vercel.app/api/spotify)](https://open.spotify.com/user/22352ieeerem5qsogyc5yotgq)
 
-## :earth_asia: My Community
-
-Wanna see some of my future projects? Join today!
-
-[![Community](https://discordapp.com/api/guilds/571612136036499466/widget.png?style=banner2)](https://discord.io/PolyLogiX)
-
 ---
 
 <!-- markdownlint-disable MD033 -->
