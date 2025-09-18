@@ -9,14 +9,6 @@ I'm an open source software developer!
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://ko-fi.com/polylogix_studio)!
 - :dart: Wasting my time to save other people's time.
 
-## :computer: Popular Projects
-
-[![NeosJS](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=Neos.js)](https://github.com/PolyLogiX-Studio/Neos.js)<!-- 1st Line -->
-[![neosjs-commands](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=PolyLogiX-Studio&repo=neosjs-commands)](https://github.com/PolyLogiX-Studio/neosjs-commands)<!-- 1st Line -->
-[![neosjs-commands](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=Ecojs&repo=Eco.js)](https://github.com/Ecojs/Eco.js)<!-- 1st Line -->
-
-[More projects...](https://github.com/PolyLogiX-Studio?tab=repositories)
-
 # Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
