@@ -34,7 +34,7 @@ I'm an open source software developer!
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Language Stats for the Current Year
+Language Stats (In my Free Time)
 
 [![wakatime](https://wakatime.com/badge/user/d69c2ed7-e77d-4021-b08c-345bad0c756b.svg)](https://wakatime.com/@d69c2ed7-e77d-4021-b08c-345bad0c756b)
 
