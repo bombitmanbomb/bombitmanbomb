@@ -11,7 +11,7 @@ I'm an open source software developer!
 
 ## :computer: Current Free-Time Projects
 
-[![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=MandaCorpNetwork&repo=Verseledger)](https://github.com/MandaCorpNetwork/Verseldger)<!-- 1st Line -->
+[![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=MandaCorpNetwork&repo=Verseledger)](https://github.com/MandaCorpNetwork/verseledger)<!-- 1st Line -->
 [![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=afocommunity&repo=koth-api)](https://github.com/afocommunity/koth-api)<!-- 1st Line -->
 [![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=OHD-Tools&repo=OHD-RCON)](https://github.com/OHD-Tools/OHD-RCON)<!-- 1st Line -->
 
