@@ -9,6 +9,12 @@ I'm an open source software developer!
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://ko-fi.com/thesnowe)!
 - :dart: Wasting my time to save other people's time.
 
+## :computer: Current Free-Time Projects
+
+[![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=MandaCorpNetwork&repo=Verseledger)](https://github.com/MandaCorpNetwork/Verseldger)<!-- 1st Line -->
+[![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=afocommunity&repo=koth-api)](https://github.com/afocommunity/koth-api)<!-- 1st Line -->
+[![Verseledger](https://github-readme-stats-6bwx5vgdo.vercel.app/api/pin/?username=OHD-Tools&repo=OHD-RCON)](https://github.com/OHD-Tools/OHD-RCON)<!-- 1st Line -->
+
 Language Stats (In my Free Time)
 
 [![wakatime](https://wakatime.com/badge/user/d69c2ed7-e77d-4021-b08c-345bad0c756b.svg)](https://wakatime.com/@d69c2ed7-e77d-4021-b08c-345bad0c756b)
