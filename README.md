@@ -27,10 +27,6 @@ Language Stats (In my Free Time)
 
 <!-- markdownlint-disable MD033 -->
 
-GitHub Awards
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=bombitmanbomb)
-
 GitHub Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=bombitmanbomb&show_icons=true&count_private=true)](https://github.com/bombitmanbomb)
